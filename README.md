@@ -43,6 +43,6 @@ A biblioteca não define como você escreve o código. O **Jquery** é a bibliot
 
 
 
-Fonte: <https://becode.com.br/framework-biblioteca-api-entenda-as-diferencas/># teste
-# Meu Exercício
+Fonte: <https://becode.com.br/framework-biblioteca-api-entenda-as-diferencas/>
+
 # exercicio01-tereza
